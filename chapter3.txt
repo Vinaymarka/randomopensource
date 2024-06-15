@@ -1,1 +1,1 @@
-Hi this is the file chapter3.txt and I want to commit many changes to this file in the near future!. 
+Hi this is the file chapter3.txt and I want to commit many changes to this file in the near future!. I modified this file again because I wanted to something onto this file!. 
